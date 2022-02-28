@@ -1,0 +1,3 @@
+The user can load the input data in two ways: 
+  (1) loading raw neuronal images,
+  (2) importing data which have been segmented or skeletonized before.
